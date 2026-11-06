@@ -3,7 +3,7 @@
   Crăciunul este una dintre cele mai importante și îndrăgite sărbători creștine, celebrată în fiecare an pe data de 25 decembrie. Această sărbătoare marchează Nașterea lui Iisus Hristos și este asociată cu bucuria, generozitatea, pacea și apropierea dintre oameni.
 În această perioadă, orașele și satele sunt decorate cu luminițe colorate, brazi împodobiți și ornamente specifice iernii. Atmosfera devine una specială, iar oamenii petrec mai mult timp alături de familie și prieteni.
 ## **Istoria Crăciunului**
-###Crăciunul are origini religioase, fiind sărbătoarea care amintește de nașterea lui Iisus Hristos în Betleem.
+Crăciunul are origini religioase, fiind sărbătoarea care amintește de nașterea lui Iisus Hristos în Betleem.
 De-a lungul timpului, sărbătoarea a căpătat numeroase tradiții și simboluri. Multe dintre obiceiurile pe care le cunoaștem astăzi au fost transmise din generație în generație.
 Astăzi, Crăciunul este sărbătorit în numeroase țări din lume, fiecare având propriile tradiții.
 ## **Tradiții și obiceiuri românești**
