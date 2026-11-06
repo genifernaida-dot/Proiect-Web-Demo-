@@ -1,6 +1,6 @@
  # **CRĂCIUNUL – MAGIA SĂRBĂTORILOR DE IARNĂ**
- ##**Despre proiect**
- În acest proiect este vorba despre Crăciun, deoarece sunt pasionată de tot ceea ce înseamnă această sărbătoare. Atunci când începe perioada Crăciunului, sunt fascinată de atmosfera magică, de tradiții, de decorațiuni și de bucuria pe care o aduce această sărbătoare. Am ales să realizez acest proiect pentru a-mi împărtăși pasiunea cu ceilalți și pentru a vă prezenta frumusețea și farmecul Crăciunului.
+ ## **Despre proiect**
+ ### În acest proiect este vorba despre Crăciun, deoarece sunt pasionată de tot ceea ce înseamnă această sărbătoare. Atunci când începe perioada Crăciunului, sunt fascinată de atmosfera magică, de tradiții, de decorațiuni și de bucuria pe care o aduce această sărbătoare. Am ales să realizez acest proiect pentru a-mi împărtăși pasiunea cu ceilalți și pentru a vă prezenta frumusețea și farmecul Crăciunului.
  ## **Ce este Crăciunul?**
   Crăciunul este una dintre cele mai importante și îndrăgite sărbători creștine, celebrată în fiecare an pe data de 25 decembrie. Această sărbătoare marchează Nașterea lui Iisus Hristos și este asociată cu bucuria, generozitatea, pacea și apropierea dintre oameni.
 În această perioadă, orașele și satele sunt decorate cu luminițe colorate, brazi împodobiți și ornamente specifice iernii. Atmosfera devine una specială, iar oamenii petrec mai mult timp alături de familie și prieteni.
@@ -59,8 +59,8 @@ Colindele sunt cântate de sute de ani în diferite culturi.
 ## **Importanța Crăciunului**
 ### Crăciunul nu înseamnă doar cadouri, decorațiuni și mese festive. Este o perioadă în care oamenii își amintesc cât de importante sunt familia, prietenia, bunătatea și generozitatea.
 Este momentul în care putem oferi ajutor celor care au nevoie, putem petrece timp cu persoanele dragi și putem crea amintiri frumoase.
-##**Concluzie**
-Crăciunul este o sărbătoare a bucuriei, generozității și tradițiilor. Este momentul în care familia se reunește, oamenii dăruiesc și creează amintiri frumoase. Magia Crăciunului înseamnă iubire, pace și bucuria de a fi împreună! 
+## **Concluzie**
+### Crăciunul este o sărbătoare a bucuriei, generozității și tradițiilor. Este momentul în care familia se reunește, oamenii dăruiesc și creează amintiri frumoase. Magia Crăciunului înseamnă iubire, pace și bucuria de a fi împreună! 
 ### Link-uri [ AGERPRES – Tradiții de Ajun și Crăciun la români](https://www.google.com)
 ### [AGERPRES – Tradiții de Crăciun](https://www.google.com)
 ### [Ministerul Afacerilor Interne – Tradiții de la noi și de la alții](https://www.google.com)
