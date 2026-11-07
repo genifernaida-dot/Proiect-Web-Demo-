@@ -27,6 +27,8 @@ Acesta este împodobit cu:
 - Ghirlande;
 - Ornamente decorative.
  ## **Moș Crăciun**
+ <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/7b582f94-8560-4731-b825-b6382bb982c4" />
+
 ### Moș Crăciun este un personaj îndrăgit de copii și adulți. El este reprezentat ca un bătrân vesel, cu barbă albă, îmbrăcat într-un costum roșu.
 Potrivit poveștilor, Moș Crăciun locuiește la Polul Nord, unde pregătește cadourile împreună cu spiridușii săi.
 În noaptea de Ajun, el călătorește cu sania trasă de reni și lasă cadouri copiilor.
