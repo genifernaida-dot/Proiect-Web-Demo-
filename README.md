@@ -17,6 +17,7 @@ Astăzi, Crăciunul este sărbătorit în numeroase țări din lume, fiecare av�
 - Masa de Crăciun: Familiile pregătesc preparate tradiționale și se reunesc în jurul mesei.
  ##  **Bradul de Crăciun**
  <img width="677" height="453" alt="image" src="https://github.com/user-attachments/assets/fb2704c2-039c-44ac-8dcf-42e569fcb1c9" />
+ 
 ### Bradul de Crăciun este unul dintre cele mai cunoscute simboluri ale sărbătorii.
 Acesta este împodobit cu:
 - Globuri colorate;
