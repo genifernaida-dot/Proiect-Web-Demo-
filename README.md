@@ -34,6 +34,8 @@ Potrivit poveștilor, Moș Crăciun locuiește la Polul Nord, unde pregătește 
 În noaptea de Ajun, el călătorește cu sania trasă de reni și lasă cadouri copiilor.
 ##**Mâncăruri tradiționale de Crăciun**
 ### În România, masa de Crăciun este bogată în preparate tradiționale.
+<img width="700" height="413" alt="image" src="https://github.com/user-attachments/assets/864fa2d5-4006-44e8-b4c8-88e49341ae18" />
+
 Printre cele mai cunoscute se numără:
 - Sarmalele;
 - Cozonacul cu nucă și cacao;
