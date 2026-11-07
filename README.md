@@ -56,6 +56,8 @@ SUA	Case decorate cu luminițe
 Franța	Mese festive și desertul Bûche de Noël
 Japonia	Decorațiuni luminoase și obiceiuri moderne
 ## **Curiozități despre Crăciun**
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/8d4d86f4-b691-4f3a-bf3c-07b0f9228159" />
+
 ### Bradul de Crăciun este decorat în mod tradițional cu luminițe și ornamente.
 Roșul și verdele sunt două dintre cele mai cunoscute culori ale Crăciunului.
 Renul Rudolph a devenit celebru datorită nasului său roșu.
